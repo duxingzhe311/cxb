@@ -1,0 +1,2 @@
+DEFINES += __SERVER_VERSION__=\\\"1.0.1.3\\\"
+DEFINES += __SERVER_INNER_VERSION__=\\\"1.0.1\\\"
